@@ -1,0 +1,39 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Problems/Bus tour/out/
+/Problems/Bus tour/out/production/classes/
+/Problems/Check sudoku/out/
+/Problems/Check sudoku/out/production/classes/
+/Problems/Chocolate/out/
+/Problems/Chocolate/out/production/classes/
+/Problems/Comparing strings ignoring whitespaces/out/
+/Problems/Comparing strings ignoring whitespaces/out/production/classes/
+/Problems/Cyclically shifting elements/out/
+/Problems/Cyclically shifting elements/out/production/classes/
+/Problems/Decompose a math function/out/
+/Problems/Decompose a math function/out/production/classes/
+/Problems/Even or odd/out/
+/Problems/Even or odd/out/production/classes/
+/Problems/Extracting a substring/out/
+/Problems/Extracting a substring/out/production/classes/
+/Problems/Fill the matrix by numbers/out/
+/Problems/Fill the matrix by numbers/out/production/classes/
+/Problems/Get first and last elements/out/
+/Problems/Get first and last elements/out/production/classes/
+/Problems/Replacing 'a' with 'b'/out/
+/Problems/Replacing 'a' with 'b'/out/production/classes/
+/Problems/Rotate a rectangle array/out/
+/Problems/Rotate a rectangle array/out/production/classes/
+/Problems/Sorting numbers/out/
+/Problems/Sorting numbers/out/production/classes/
+/Problems/The longest ascending sequence/out/
+/Problems/The longest ascending sequence/out/production/classes/
+/Problems/The minimum value of an array/out/
+/Problems/The minimum value of an array/out/production/classes/
+/Problems/The sign of a number/out/
+/Problems/The sign of a number/out/production/classes/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
